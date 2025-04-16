@@ -1,0 +1,53 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "School-Locker/Class Notes": {
+      "icon": "lucide-notebook-tabs",
+      "unsynced": [
+        "29010d0f7d171f5b"
+      ]
+    },
+    "School-Locker/Home.md": {
+      "icon": "lucide-home"
+    },
+    "School-Locker/Misc": {
+      "icon": "lucide-minus-circle",
+      "unsynced": [
+        "29010d0f7d171f5b"
+      ]
+    },
+    "School-Locker/Practical": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "29010d0f7d171f5b"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

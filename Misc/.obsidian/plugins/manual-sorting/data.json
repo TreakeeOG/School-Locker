@@ -1,0 +1,23 @@
+{
+  "customFileOrder": {
+    "/": [
+      "School-Locker"
+    ],
+    "School-Locker": [
+      "School-Locker/Home.md",
+      "School-Locker/Class Notes",
+      "School-Locker/Practical",
+      "School-Locker/Misc"
+    ],
+    "School-Locker/Class Notes": [
+      "School-Locker/Class Notes/Palce-holder.md"
+    ],
+    "School-Locker/Misc": [
+      "School-Locker/Misc/README.md",
+      "School-Locker/Misc/Palce-holder 1.md"
+    ],
+    "School-Locker/Practical": [
+      "School-Locker/Practical/Palce-holder 1.md"
+    ]
+  }
+}
